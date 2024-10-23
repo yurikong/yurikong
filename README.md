@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a minimalist resume template using Astro, and soon will work on other personal projects. I plan to open-source all my personal projects.
+- 🔭 I’m currently working on my personal projects. I plan to contribute to open-sourced projects, for example ReactOS...
 - 🌱 I’m currently learning how to make a good latte.
 - 👯 I’m looking to collaborate on interesting and fun projects. Hit me up!
 - 🤔 I’m looking for help with kickstarting my freelancing career.
