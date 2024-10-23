@@ -17,14 +17,14 @@
 - <a href="mailto:jackdu2013@163.com" title="jackdu2013@163.com">Email</a>
 - Wechat
 
-  <img src="/assets/wechat-contact-qr.webp" alt="Wechat contact qr" width="120" title="jackdu2013" />
+  <img src="assets/wechat-contact-qr.png" alt="Wechat contact qr" width="120" title="jackdu2013" />
 
 ## Support me 💰:
 
 - Wechat
 
-  <img src="/assets/wechat-donation-qr.webp" alt="Wechat donation qr" width="120" title="Wechat donate"/>
+  <img src="assets/wechat-donation-qr.png" alt="Wechat donation qr" width="120" title="Wechat donate"/>
 
 - Buy me a coffee
 
-  <img src="/assets/buy-me-a-coffee-donation-qr.webp" alt="Buy me a coffee qr" width="120" title="Buy me a coffee" />
+  <img src="assets/buy-me-a-coffee-donation-qr.png" alt="Buy me a coffee qr" width="120" title="Buy me a coffee" />
