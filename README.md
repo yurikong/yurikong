@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my personal projects. I plan to contribute to open-sourced projects, for example ReactOS...
+- 🔭 I’m currently working as a Software Engineer.
 - 🌱 I’m currently learning how to make a good latte.
 - 👯 I’m looking to collaborate on interesting and fun projects. Hit me up!
 - 🤔 I’m looking for help with kickstarting my freelancing career.
@@ -14,7 +14,7 @@
 
 ## Contact me 📫:
 
-- <a href="mailto:jackdu2013@163.com" title="jackdu2013@163.com">Email</a>
+- <jackdu2013@163.com>
 - Wechat
 
   <img src="assets/wechat-contact-qr.png" alt="Wechat contact qr" width="120" title="jackdu2013" />
